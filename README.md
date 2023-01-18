@@ -2,3 +2,7 @@
 RandomForest是使用随机生成树对Titanic数据进行分类
 
 Groceries是使用apriori算法对杂货铺数据进行规则提取
+
+BPNetwork使用标准BP神经网络对蝴蝶花数据集进行分类
+
+CNN使用卷积神经网络对猫狗进行预测
